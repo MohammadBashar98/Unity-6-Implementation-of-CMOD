@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: 844e35d4987ecc44b8238abf3f54e8e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_dollar
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1038
+        width: 426
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962043bc930a4ad40800000000000000
+      internalID: 5594772807183762025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_drone_attack
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 3520
+        width: 485
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0142f39fc795623e0800000000000000
+      internalID: -2078875784692423664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_drone_neutral
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 3562
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e6b3f3011f8d480800000000000000
+      internalID: -8874078013650932126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_drone_run_01
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3562
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f1b516bd71d780800000000000000
+      internalID: -8660002387455248638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_drone_run_02
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 3562
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be2918aee0ce2e0800000000000000
+      internalID: -2095283326275097791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'spr_drone_run_03                                                                                                       '
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2986
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ab706cbbd65d160800000000000000
+      internalID: 7049661444967086706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'spr_drone_run_04                                                                                            '
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2986
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce43e02f6d087de60800000000000000
+      internalID: 7986994124837237996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_attack
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2944
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4c1494bfc93d6f0800000000000000
+      internalID: -661012117213559622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_neutral
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2432
+        width: 432
+        height: 512
+      alignment: 9
+      pivot: {x: 0.507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9d59c93848102f0800000000000000
+      internalID: -1008379140751631931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_run01
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2432
+        width: 492
+        height: 512
+      alignment: 9
+      pivot: {x: 0.507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6163c851b564fbde0800000000000000
+      internalID: -1315255209151416810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_run02
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2432
+        width: 432
+        height: 512
+      alignment: 9
+      pivot: {x: 0.507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023ad7bc95497ac0800000000000000
+      internalID: -3856975066464374259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_run03
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1856
+        width: 460
+        height: 512
+      alignment: 9
+      pivot: {x: 0.507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b4457b24db3f200800000000000000
+      internalID: 212721701657791265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_run04
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1856
+        width: 408
+        height: 512
+      alignment: 9
+      pivot: {x: 0.507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ca4cefdc0a8180800000000000000
+      internalID: -9112456740149214076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_toughguy_attack
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1856
+        width: 410
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57d0ba9de1aa4e20800000000000000
+      internalID: 3335656515895875421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_toughguy_neutral
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1280
+        width: 410
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f2db4e94e5b5c0800000000000000
+      internalID: -4200199708925038309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_toughguy_run01
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1280
+        width: 430
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8285b8ca4c33e0800000000000000
+      internalID: -2072699502598123564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_toughguy_run02
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 1280
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b8a40b52c0d790800000000000000
+      internalID: -7507286882650638677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_run03
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 576
+        width: 390
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b4457b24db3f200800000000000000
+      internalID: 212721701657791265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_boss_run04
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 63
+        width: 440
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ca4cefdc0a8180800000000000000
+      internalID: -9112456740149214076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_punch_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 1098
+        height: 313
+      alignment: 9
+      pivot: {x: 0.373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7243491a43847e50800000000000000
+      internalID: 6806209291138318971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_punch_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 1098
+        height: 337
+      alignment: 9
+      pivot: {x: 0.373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebc7fc930e1345b0800000000000000
+      internalID: -5385427728537760790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_punch_03
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 248
+        width: 681
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d282123a9ba980800000000000000
+      internalID: -8526551929646296670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_punch_04
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 123
+        width: 851
+        height: 564
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c3fbaf99dd18640800000000000000
+      internalID: 5080585508057201803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_gun_01
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 593
+        height: 434
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1234aa59a596ff660800000000000000
+      internalID: 7421766548708803361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_gun_02
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 961
+        width: 593
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186cab7672ff1600800000000000000
+      internalID: 441337879200557086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_gun_03
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 258
+        width: 593
+        height: 681
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb68a0d6f6e2a470800000000000000
+      internalID: 8404533802363808695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Burger
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 53
+        width: 418
+        height: 303
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972bec1017f958f00800000000000000
+      internalID: 1118475390181880441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_White
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3424
+        width: 109
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc0dd13078ff8110800000000000000
+      internalID: 1265503181070994652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Black
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3251
+        width: 111
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ef01942da64dc80800000000000000
+      internalID: -8298890761935454615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_upgrade_weapon
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54479bd924d193380800000000000000
+      internalID: -8991123009117260731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_mission_failed
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 85
+        width: 227
+        height: 221
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6caf7045be72cc0800000000000000
+      internalID: -3735758619736881461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_mission_complete
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 86
+        width: 232
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1512afdc0fe2b40800000000000000
+      internalID: 5417532169228734949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ammocount
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 1114
+        width: 213
+        height: 116
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc469372f889a90800000000000000
+      internalID: -7306932996779225135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_health
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 964
+        width: 257
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77a4ddf6e62549c0800000000000000
+      internalID: -3943703125150095492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'spr_options                                         '
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1139
+        width: 257
+        height: 78
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b54088c9407a50800000000000000
+      internalID: 6516789786299447162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_menu
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 407
+        width: 559
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0501fbbdb304ef50800000000000000
+      internalID: 6909651841730020623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ammo
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ccf10fc2ac55e0800000000000000
+      internalID: -1919480331191401547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_Black: -8298890761935454615
+      spr_Burger: 1118475390181880441
+      spr_White: 1265503181070994652
+      spr_ammo: -1919480331191401547
+      spr_ammocount: -7306932996779225135
+      spr_boss_attack: -661012117213559622
+      spr_boss_neutral: -1008379140751631931
+      spr_boss_run01: -1315255209151416810
+      spr_boss_run02: -3856975066464374259
+      spr_boss_run03: 212721701657791265
+      spr_boss_run04: -9112456740149214076
+      spr_dollar: 5594772807183762025
+      spr_drone_attack: -2078875784692423664
+      spr_drone_neutral: -8874078013650932126
+      spr_drone_run_01: -8660002387455248638
+      spr_drone_run_02: -2095283326275097791
+      'spr_drone_run_03                                                                                                       ': 7049661444967086706
+      'spr_drone_run_04                                                                                            ': 7986994124837237996
+      spr_gun_01: 7421766548708803361
+      spr_gun_02: 441337879200557086
+      spr_gun_03: 8404533802363808695
+      spr_health: -3943703125150095492
+      spr_menu: 6909651841730020623
+      spr_mission_complete: 5417532169228734949
+      spr_mission_failed: -3735758619736881461
+      'spr_options                                         ': 6516789786299447162
+      spr_punch_01: 6806209291138318971
+      spr_punch_02: -5385427728537760790
+      spr_punch_03: -8526551929646296670
+      spr_punch_04: 5080585508057201803
+      spr_toughguy_attack: 3335656515895875421
+      spr_toughguy_neutral: -4200199708925038309
+      spr_toughguy_run01: -2072699502598123564
+      spr_toughguy_run02: -7507286882650638677
+      spr_upgrade_weapon: -8991123009117260731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

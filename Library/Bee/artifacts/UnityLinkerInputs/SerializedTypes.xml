@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="GUIObject/PixelPadding" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.IMGUIModule">
+		<type fullname="UnityEngine.GUIContent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.GUIStyle" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
